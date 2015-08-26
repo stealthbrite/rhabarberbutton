@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Horst/rhabarberbutton/library/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="066ad8263a5bbebea5cb9c9698ade1fa0c495114">
+        <dex dex="/Users/Horst/rhabarberbutton/library/build/intermediates/pre-dexed/androidTest/debug/classes-8a8e63ec3e110b741bb774d007bf0496338c3f9f.jar" />
+    </item>
+    <item
+        jar="/Users/Horst/rhabarberbutton/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Horst/rhabarberbutton/library/build/intermediates/pre-dexed/androidTest/debug/classes-f65b116425d2bd370eada4a0b0e53d63dc7d9d99.jar" />
+    </item>
+    <item
+        jar="/Users/Horst/rhabarberbutton/library/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Horst/rhabarberbutton/library/build/intermediates/pre-dexed/androidTest/debug/internal_impl-22.2.1-6d9c0a9df682b326e715131ea78e02c65efd3e90.jar" />
+    </item>
+    <item
+        jar="/Users/Horst/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Horst/rhabarberbutton/library/build/intermediates/pre-dexed/androidTest/debug/support-annotations-22.2.1-40e35371e6ae8b4dfe17f2f18831288eca98ef65.jar" />
+    </item>
+    <item
+        jar="/Users/Horst/rhabarberbutton/library/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Horst/rhabarberbutton/library/build/intermediates/pre-dexed/androidTest/debug/classes-07bf0b5f59287d74258ae6f8c0d367ab2ee652a3.jar" />
+    </item>
+
+</items>
