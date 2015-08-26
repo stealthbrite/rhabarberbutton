@@ -1,5 +1,31 @@
 apply plugin: 'com.android.library'
 
+apply plugin: 'com.android.library'
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'rhabarberbutton'
+
+    publishedGroupId = 'rhab.rhabarber.library'
+    libraryName = 'RhabarberButton'
+    artifact = 'rhabarberbutton'
+
+    libraryDescription = 'hashtagrhabarberboiz'
+
+    siteUrl = 'https://github.com/JulianHorst/rhabarberbutton'
+    gitUrl = 'https://github.com/JulianHorst/rhabarberbutton.git'
+
+    libraryVersion = '1.3.3.7'
+
+    developerId = 'hottward'
+    developerName = 'Julian Horstissimo Horst'
+    developerEmail = 'horst@rhabarberboiz.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
 android {
     compileSdkVersion 22
     buildToolsVersion "23.0.0 rc3"
